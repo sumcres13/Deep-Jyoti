@@ -1,0 +1,6 @@
+# Preserve the approved site's exact bytes, including existing line endings.
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary

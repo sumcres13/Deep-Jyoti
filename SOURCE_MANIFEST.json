@@ -1,0 +1,177 @@
+{
+  "formatVersion": 1,
+  "algorithm": "SHA-256",
+  "createdAt": "2026-10-05T06:47:54.207673+00:00",
+  "sourceDirectoryName": "DEEP JYOTI HP",
+  "description": "All files in the approved local website are retained byte-for-byte. The original README is preserved in docs/original-README.md; the repository README contains hosting instructions.",
+  "files": [
+    {
+      "sourcePath": "about.html",
+      "repositoryPath": "about.html",
+      "bytes": 4970,
+      "sha256": "10e8de600d5476c9c7b2f9e6f66dfd2df6fdd0c2dd6764bd61d64446e75dcf3e"
+    },
+    {
+      "sourcePath": "apply_budoux.py",
+      "repositoryPath": "apply_budoux.py",
+      "bytes": 1330,
+      "sha256": "38ea53bb2bc17d3eddad96c0ce7e415656f2de4ec0cdd94eaac9ec6cc1123e7d"
+    },
+    {
+      "sourcePath": "ARTWORK.md",
+      "repositoryPath": "ARTWORK.md",
+      "bytes": 8092,
+      "sha256": "5c7181ae3bf4991541e6c3ead747fd3adf29909f447231a678b7a0ef32e61c74"
+    },
+    {
+      "sourcePath": "assets/culinary-gallery-background.png",
+      "repositoryPath": "assets/culinary-gallery-background.png",
+      "bytes": 1856815,
+      "sha256": "4b7d5f1151c07f21b95b8c8119d2b994df42f429805777f54fe08c66b72b7802"
+    },
+    {
+      "sourcePath": "assets/culinary-spice-art.png",
+      "repositoryPath": "assets/culinary-spice-art.png",
+      "bytes": 2164558,
+      "sha256": "82f7ad987da6e52ad859d76f8684177ad55caccfd02f1e6d2167958b2a07bf21"
+    },
+    {
+      "sourcePath": "assets/culinary-store-background.png",
+      "repositoryPath": "assets/culinary-store-background.png",
+      "bytes": 1562078,
+      "sha256": "3a6088778904960755f61f29d9a97ef850ebddf5dbe86dc16db3361e41c70cfd"
+    },
+    {
+      "sourcePath": "assets/culinary-store-mobile.png",
+      "repositoryPath": "assets/culinary-store-mobile.png",
+      "bytes": 1545443,
+      "sha256": "6ee15662c8ef14f70e081ba8a3723da11240d98d6d66ac0f8aec34ca98138f68"
+    },
+    {
+      "sourcePath": "assets/culinary-values-mobile.png",
+      "repositoryPath": "assets/culinary-values-mobile.png",
+      "bytes": 1955448,
+      "sha256": "2479da3b3a367996fdebeffc116cdae4f0fcac44c64243a175931ab7601fd621"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-access.png",
+      "repositoryPath": "assets/deep-jyoti-access.png",
+      "bytes": 2052111,
+      "sha256": "c98b19c397e427e24d42c6db593b511f38e2aa41db12998591a15aa35b205a2c"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-hero.png",
+      "repositoryPath": "assets/deep-jyoti-hero.png",
+      "bytes": 1924114,
+      "sha256": "ea64068f20132db604c0af146d85619d3d5e381378c518e3b5515f09ca881980"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-interior-1.png",
+      "repositoryPath": "assets/deep-jyoti-interior-1.png",
+      "bytes": 2247469,
+      "sha256": "92f89f34e5cd2e399b8c4008491890565399f9c4417ccaf068e37597762b7bca"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-interior-2.png",
+      "repositoryPath": "assets/deep-jyoti-interior-2.png",
+      "bytes": 2317794,
+      "sha256": "23a0974dd637effcbf074b211f088ce5ff074e39fd8d024e1936a6b3e1fc5c41"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-interior-3.png",
+      "repositoryPath": "assets/deep-jyoti-interior-3.png",
+      "bytes": 2162421,
+      "sha256": "587f2556b9062f2590b82b00f6912f1d8a3dcba77c537a1f6484e79abf1f8744"
+    },
+    {
+      "sourcePath": "assets/deep-jyoti-logo.png",
+      "repositoryPath": "assets/deep-jyoti-logo.png",
+      "bytes": 1017600,
+      "sha256": "30704e7c54a353e902ea017b84240a746a6959a53be0f34fd41b87ebee9880b5"
+    },
+    {
+      "sourcePath": "assets/line-logo-user.png",
+      "repositoryPath": "assets/line-logo-user.png",
+      "bytes": 972,
+      "sha256": "31aeeb847db92de1b2634aa05cf9970b3906e40de61f30eb9756578840087971"
+    },
+    {
+      "sourcePath": "assets/logo-demaecan.png",
+      "repositoryPath": "assets/logo-demaecan.png",
+      "bytes": 5777,
+      "sha256": "e362f022037578143f503df2904524d3fe2d7e7c23baeba421fc76f6e75911d3"
+    },
+    {
+      "sourcePath": "assets/logo-gurunavi.png",
+      "repositoryPath": "assets/logo-gurunavi.png",
+      "bytes": 9547,
+      "sha256": "73e007648b14f9584da37b113b415805855e33c2d7e315b2705e204372a0bfc3"
+    },
+    {
+      "sourcePath": "assets/logo-rocketnow.png",
+      "repositoryPath": "assets/logo-rocketnow.png",
+      "bytes": 20271,
+      "sha256": "c5aed0c5fa654248cb8a9b190a7c1fa4bcdae8bc518b08a017550f6cb81ccd90"
+    },
+    {
+      "sourcePath": "assets/logo-tabelog.jpg",
+      "repositoryPath": "assets/logo-tabelog.jpg",
+      "bytes": 20658,
+      "sha256": "d197cc8c90ae128bc651f21d9f3328f0b764b32ba1334c53a743b304bbc0675e"
+    },
+    {
+      "sourcePath": "assets/logo-uber.png",
+      "repositoryPath": "assets/logo-uber.png",
+      "bytes": 22817,
+      "sha256": "52ca5b6f9b0dccb6f439e4f25075b1fb36c9b58289bd576b6523b51582204a13"
+    },
+    {
+      "sourcePath": "assets/tara-gaire.png",
+      "repositoryPath": "assets/tara-gaire.png",
+      "bytes": 1855823,
+      "sha256": "7d18127c61bede5fa5c2d7bb1f7af9b567c7264a39f5325e4cfaa11d0594fd36"
+    },
+    {
+      "sourcePath": "index.html",
+      "repositoryPath": "index.html",
+      "bytes": 6434,
+      "sha256": "8fc553088cf2c64575412d1da57f612c3de854fb2c27bbb588890896858baa13"
+    },
+    {
+      "sourcePath": "README.md",
+      "repositoryPath": "docs/original-README.md",
+      "bytes": 2901,
+      "sha256": "fde78b9f815b891734eaf46ffea4ca61a9a925dca3c853d8ac57d11e1326545b"
+    },
+    {
+      "sourcePath": "requirements-build.txt",
+      "repositoryPath": "requirements-build.txt",
+      "bytes": 14,
+      "sha256": "d87ba4ff0de67ca9f2ee14ab6aed44e632cad47f539c154207de1b5d656ec191"
+    },
+    {
+      "sourcePath": "reservation.html",
+      "repositoryPath": "reservation.html",
+      "bytes": 4739,
+      "sha256": "b35a45bcb6c6716deea1c5cc73bc72aa2ad06d0f16281799519538faef94e6f8"
+    },
+    {
+      "sourcePath": "script.js",
+      "repositoryPath": "script.js",
+      "bytes": 20743,
+      "sha256": "6baea7d775d6cc72aa1ff8b65f6e71fed658ad0dd8244f5e1188375ec5da507f"
+    },
+    {
+      "sourcePath": "stores.html",
+      "repositoryPath": "stores.html",
+      "bytes": 5505,
+      "sha256": "1a8776a662200d3c6308a120276c7f9d2f40f1e6e98f0e4f3f55275d6b02d163"
+    },
+    {
+      "sourcePath": "styles.css",
+      "repositoryPath": "styles.css",
+      "bytes": 78737,
+      "sha256": "0c2596a4656b04fcc5854c3bca6d5b2e632b461dd7f8f75f6152778b22acb10f"
+    }
+  ]
+}
